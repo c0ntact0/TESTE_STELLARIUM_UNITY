@@ -148,3 +148,4 @@ $RECYCLE.BIN/
 !/[Pp]ackages/packages-lock.json
 !/[Pp]rojectSettings/
 TESTE_STELLARIUM_UNITY.code-workspace
+.gitcommittemplate
