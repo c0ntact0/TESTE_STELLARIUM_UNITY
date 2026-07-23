@@ -1,0 +1,42 @@
+Current Landscape Name:Guereins
+Location longitude: 16.25
+Location latitude: 48.20000076293945
+Location altitude: 280
+Location name: Unity, Southern Europe
+Location planet: Earth
+Location local-sidereal-time: 14.114980286924062
+Location Bortle Index: 8
+North panel luminance: 1
+East panel luminance: 1
+South panel luminance: 1
+West panel luminance: 1
+Top panel luminance: 1
+Bottom panel luminance: 1
+Stellarium Skybox lighting data:
+Vertical FoV: 90
+Horizontal FoV: 122.56186158334374
+Date (UTC): 2026-07-23T16:56:07
+Date: 2026-07-23T17:56:07
+JD: 2461245.20563799
+Sun Azimuth: 282.656410932867
+Sun Altitude: 15.681468457652674
+Sun Magnitude: -26.708026885986328
+Sun Magnitude (after extinction): -25.97730255126953
+Sun Longitude: 120.86280225853136
+Sun Size: 0.5248196953566057
+Moon Azimuth: 160.64259993796878
+Moon Altitude: 14.401501271042937
+Moon Phase: 0.7150108218193054
+Moon Phase angle: 64.53106854599635
+Moon illumination: 71.50108337402344
+Moon Magnitude: -11.14209270477295
+Moon Magnitude (after extinction): -10.349813461303711
+Moon Longitude: 236.3484590225489
+Moon Size: 0.4954654814570612
+Venus Azimuth: 237.38305773185087
+Venus Altitude: 33.46462779633382
+Venus Magnitude: -4.2188401222229
+Venus Magnitude (after extinction): -3.8570635318756104
+Venus Longitude: 165.30278162243965
+Atm. Luminance: 6278.5908203125
+Landscape Brightness: 0.949999988079071

@@ -1,0 +1,42 @@
+Current Landscape Name:Guereins
+Location longitude: -9.149800300598145
+Location latitude: 38.72509002685547
+Location altitude: 68
+Location name: Lisbon, Southern Europe
+Location planet: Earth
+Location local-sidereal-time: 18.654516838406416
+Location Bortle Index: 8
+North panel luminance: 0
+East panel luminance: 0
+South panel luminance: 0
+West panel luminance: 0
+Top panel luminance: 0
+Bottom panel luminance: 0
+Stellarium Skybox lighting data:
+Vertical FoV: 90
+Horizontal FoV: 122.42218156866508
+Date (UTC): 1970-08-10T22:00:00
+Date: 1970-08-10T23:00:00
+JD: 2440809.4166782293
+Sun Azimuth: 316.84197608465445
+Sun Altitude: -23.88828587040591
+Sun Magnitude: -26.71294593811035
+Sun Magnitude (after extinction): -26.71294593811035
+Sun Longitude: 137.84032367059618
+Sun Size: 0.5260098400756712
+Moon Azimuth: 225.023817522914
+Moon Altitude: 11.424155145864816
+Moon Phase: 0.5552541017532349
+Moon Phase angle: 83.65538863306944
+Moon illumination: 55.52540969848633
+Moon Magnitude: -10.62898063659668
+Moon Magnitude (after extinction): -10.62898063659668
+Moon Longitude: 234.08174690006183
+Moon Size: 0.5187979966987729
+Venus Azimuth: 273.63788749752314
+Venus Altitude: -6.669652250321027
+Venus Magnitude: -4.23897647857666
+Venus Magnitude (after extinction): -4.23897647857666
+Venus Longitude: 182.68583626429168
+Atm. Luminance: 0.0010000000474974513
+Landscape Brightness: 0.17499999701976776
